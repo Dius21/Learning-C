@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/viraj/source/repos/Dius21/Learning-C/out/build/x64-Debug/CMakeFiles/my_app_1.exe.dir/embed.manifest"

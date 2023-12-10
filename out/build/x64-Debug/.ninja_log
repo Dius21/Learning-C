@@ -1,0 +1,4 @@
+# ninja log v5
+2	106	7233589296227687	CMakeFiles/my_app_1.dir/c_program1.c.obj	265c4dfc0b08f446
+15	102	7238937409237945	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
+103	268	7238937410481822	my_app_1.exe.exe	9dca139d1ad86c90
