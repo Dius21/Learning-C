@@ -1,24 +1,4 @@
 # ninja log v5
 2	106	7233589296227687	CMakeFiles/my_app_1.dir/c_program1.c.obj	265c4dfc0b08f446
-15	102	7238937409237945	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-103	268	7238937410481822	my_app_1.exe.exe	9dca139d1ad86c90
-1	105	7240074092365176	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-105	372	7240074094415211	my_app_1.exe.exe	9dca139d1ad86c90
-3	448	7240085626692259	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-449	735	7240085628867550	my_app_1.exe.exe	9dca139d1ad86c90
-24	131	7240087433149302	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-132	349	7240087434854527	my_app_1.exe.exe	9dca139d1ad86c90
-19	131	7240092598704904	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-133	471	7240092601312011	my_app_1.exe.exe	9dca139d1ad86c90
-40	258	7240096810460771	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-260	654	7240096813565432	my_app_1.exe.exe	9dca139d1ad86c90
-57	268	7240097226377636	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-270	614	7240097229107386	my_app_1.exe.exe	9dca139d1ad86c90
-18	147	7240097891953962	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-148	570	7240097895535139	my_app_1.exe.exe	9dca139d1ad86c90
-14	100	7240098866023951	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-100	259	7240098867217428	my_app_1.exe.exe	9dca139d1ad86c90
-2	93	7240100721379540	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
-94	271	7240100722749828	my_app_1.exe.exe	9dca139d1ad86c90
 2	381	7240110035646028	CMakeFiles/my_app_1.exe.dir/c_program1.c.obj	1a55b18fe1163205
 382	536	7240110036816073	my_app_1.exe.exe	9dca139d1ad86c90
