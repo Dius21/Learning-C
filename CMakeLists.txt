@@ -1,2 +1,2 @@
-project ("Learning-C/build")
-add_executable ("c program 2")
+project ("Learning-C")
+add_executable ("my_app_1.exe" "c program1.c")
