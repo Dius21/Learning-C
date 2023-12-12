@@ -55,3 +55,11 @@ dkms.conf
 #coustom
 *.opendb
 *.vsidx
+/.vs/slnx.sqlite
+/.vs/Learning-C/v17/.wsuo
+*.db-shm
+*.db-wal
+/.vs/Learning-C/v17/Browse.VC.db
+/.vs/slnx.sqlite
+/.vs/Learning-C/v17/Browse.VC.db
+/.vs/Learning-C/v17/.wsuo
