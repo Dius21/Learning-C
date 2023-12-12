@@ -55,6 +55,9 @@ dkms.conf
 #coustom
 *.opendb
 *.vsidx
-.C-make_build/
-.C-make_install/
+C-make_build/
+C-make_install/
 .vsidx
+vs/
+vscode/
+.gitignore
