@@ -57,3 +57,4 @@ dkms.conf
 *.vsidx
 .C-make_build/
 .C-make_install/
+.vsidx
