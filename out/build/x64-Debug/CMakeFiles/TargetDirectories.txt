@@ -1,3 +1,0 @@
-C:/Users/viraj/source/repos/Dius21/Learning-C/out/build/x64-Debug/CMakeFiles/my_app_1.exe.dir
-C:/Users/viraj/source/repos/Dius21/Learning-C/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/viraj/source/repos/Dius21/Learning-C/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

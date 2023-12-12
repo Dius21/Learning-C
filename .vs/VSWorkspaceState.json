@@ -1,13 +1,12 @@
 {
-  "OutputFoldersPerTargetSystem": {
-    "Local Machine": [
-      "out\\build\\x64-Debug",
-      "out\\install\\x64-Debug"
-    ]
-  },
   "ExpandedNodes": [
     ""
   ],
-  "SelectedNode": "\\c program1.c",
-  "PreviewInSolutionExplorer": false
+  "PreviewInSolutionExplorer": false,
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "C-make_build\\x64-Debug",
+      "C-make_install\\x64-Debug"
+    ]
+  }
 }
